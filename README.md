@@ -10,7 +10,13 @@
 
 | 이름               | 바로가기    | 
 | :-----------------: | :------:  |
-| 이진탐색트리(Binary Search Tree) | [바로가기](./Data%20Structure/BinarySearchTree.md) |
+| Key | [바로가기](./Data%20Structure/BinarySearchTree.md) |
+
+### Database
+
+| 이름               | 바로가기    | 
+| :-----------------: | :------:  |
+| 이진탐색트리(Binary Search Tree) | [바로가기](Database\Key.md) |
 
 ### 참고자료
 [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
