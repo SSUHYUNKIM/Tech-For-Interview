@@ -1,5 +1,7 @@
 ## 배열(Array)
 
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbHOFDT%2FbtsrCwkQ8Xm%2FkFBdMpSfFHY2aSqflTkOt1%2Fimg.png">
+
 > **같은 타입의 데이터**를 여러개 **나열**한 선형 자료구조
 
 ### 특징
